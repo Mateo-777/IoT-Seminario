@@ -60,3 +60,15 @@ El desarrollo de proyectos eólicos en Colombia, especialmente en La Guajira, ha
 ## Conclusión
 
 Colombia está dando pasos importantes hacia la diversificación de su matriz energética mediante el desarrollo de proyectos eólicos tanto en tierra como en el mar. Si bien existen desafíos, especialmente en términos de aceptación social y regulaciones, el potencial eólico del país ofrece una oportunidad significativa para avanzar hacia una energía más limpia y sostenible.
+
+## Fuentes
+
+- [UPME - Unidad de Planeación Minero Energética](https://www1.upme.gov.co/)
+- [Ministerio de Minas y Energía de Colombia](https://www.minenergia.gov.co/)
+- [EPM - Empresas Públicas de Medellín](https://www.epm.com.co/)
+- [Isagen - Energía Sostenible](https://www.isagen.com.co/)
+- [El Tiempo - Proyectos eólicos en La Guajira](https://www.eltiempo.com/)
+- [La Silla Vacía - La otra cara de la transición energética en La Guajira](https://www.lasillavacia.com/)
+- [Bloomberg Línea - Proyectos eólicos offshore en Colombia](https://www.bloomberglinea.com/)
+- [Portafolio - Energía eólica en Colombia](https://www.portafolio.co/)
+
